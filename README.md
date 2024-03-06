@@ -1,2 +1,2 @@
-# -Dishwasher-project-in-Z80-assembly-language
-Tema proiectului reprezintă o mașină de spălat vase. Acest proiect este  realizat pe macheta Z80 și este axat pe partea de configurare a sistemului, în calitate  de administrator.
+# -Dishwasher-project-in-Z80-assembly-languageProject Theme: Dishwasher Machine
+The project revolves around a dishwasher machine implemented on the Z80 architecture model, focusing on system configuration from an administrative perspective.
